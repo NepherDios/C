@@ -430,3 +430,21 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# Eclipse metadata
+.project
+.cproject
+.settings/
+
+# Build output
+Debug/
+Release/
+binaries/
+
+# Compiled stuff
+*.o
+*.so
+*.a
+*.exe
+*.out
