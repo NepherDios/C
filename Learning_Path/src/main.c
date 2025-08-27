@@ -5,11 +5,9 @@
  *      Author: nepher
  */
 #include <stdio.h>
-#include <stdlib.h>
-
-int main(){
-	char name[] = "Grim";
-	printf("Hello, %s!", name);
+int main(void){
+	char *name = "Nepher";
+	printf("Hello, %s!",name);
 	return 0;
 }
 
