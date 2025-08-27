@@ -448,3 +448,4 @@ binaries/
 *.a
 *.exe
 *.out
+/.metadata/
